@@ -1,0 +1,816 @@
+Aglarond,Sauron
+Aglarond,Tom Bombadil
+Aglarond,Gimli
+Aglarond,Éowyn
+Aglarond,Samwise Gamgee
+Aglarond,Treebeard
+Aglarond,Galadriel
+Aglarond,Glorfindel
+Aglarond,Théoden
+Aglarond,Saruman the White
+Aglarond,Grìma Wormtongue
+Aglarond,Legolas
+Aglarond,Peregrin Took
+Aldburg,Bilbo Baggins
+Aldburg,Théoden
+Aldburg,Gollum
+Aldburg,Elrond
+Aldburg,Legolas
+Aldburg,Tom Bombadil
+Aldburg,Shadowfax
+Aldburg,Saruman the White
+Aldburg,Arwen Evenstar
+Aldburg,Gandalf the Grey
+Aldburg,Beregond
+Aldburg,Éowyn
+Aldburg,Glorfindel
+Andustar,Gollum
+Andustar,Elrond
+Andustar,Denethor
+Andustar,Éowyn
+Andustar,Samwise Gamgee
+Andustar,Galadriel
+Andustar,Gimli
+Angband,Grìma Wormtongue
+Angband,Tom Bombadil
+Angband,Legolas
+Angband,Gandalf the Grey
+Angband,Sauron
+Angband,Faramir
+Angband,Frodo Baggins
+Angband,Meriadoc Brandybuck
+Angband,Galadriel
+Angband,Boromir
+Argonath,Beregond
+Argonath,Glorfindel
+Argonath,Meriadoc Brandybuck
+Argonath,Treebeard
+Argonath,Quickbeam
+Argonath,Elrond
+Argonath,Éomer
+Argonath,Faramir
+Argonath,Frodo Baggins
+Argonath,Théoden
+Bag End,Arwen Evenstar
+Bag End,Meriadoc Brandybuck
+Bag End,Frodo Baggins
+Bag End,Quickbeam
+Bag End,Beregond
+Bag End,Barliman Butterbur
+Bag End,Gollum
+Bag End,Legolas
+Barad-dûr,Gollum
+Barad-dûr,Éowyn
+Barad-dûr,Arwen Evenstar
+Barad-dûr,Théoden
+Barad-dûr,Shelob
+Barad-dûr,Aragorn
+Barad-dûr,Denethor
+Barad-dûr,Faramir
+Barad-dûr,Legolas
+Barad-dûr,Sauron
+Black Gate,Meriadoc Brandybuck
+Black Gate,Frodo Baggins
+Black Gate,Aragorn
+Black Gate,Denethor
+Black Gate,Tom Bombadil
+Black Gate,Galadriel
+Black Gate,Gollum
+Black Gate,Peregrin Took
+Black Gate,Bilbo Baggins
+Black Gate,Gimli
+Black Gate,Sauron
+Black Gate,Éomer
+Bridge of Khazad-dûm,Galadriel
+Bridge of Khazad-dûm,Bilbo Baggins
+Bridge of Khazad-dûm,Faramir
+Bridge of Khazad-dûm,Tom Bombadil
+Bridge of Khazad-dûm,Meriadoc Brandybuck
+Bridge of Khazad-dûm,Éomer
+Bridge of Khazad-dûm,Saruman the White
+Bridge of Khazad-dûm,Frodo Baggins
+Bridge of Khazad-dûm,Théoden
+Bridge of Khazad-dûm,Gollum
+Bridge of Khazad-dûm,Peregrin Took
+Carchost,Théoden
+Carchost,Frodo Baggins
+Carchost,Sauron
+Carchost,Éowyn
+Carchost,Tom Bombadil
+Carchost,Barliman Butterbur
+Carchost,Glorfindel
+Carchost,Boromir
+Carchost,Quickbeam
+Carchost,Grìma Wormtongue
+Carchost,Meriadoc Brandybuck
+Carchost,Aragorn
+Cirith Ungol,Gimli
+Cirith Ungol,Legolas
+Cirith Ungol,Tom Bombadil
+Cirith Ungol,Théoden
+Cirith Ungol,Gandalf the Grey
+Cirith Ungol,Beregond
+Cirith Ungol,Éowyn
+Cirith Ungol,Grìma Wormtongue
+Cirith Ungol,Boromir
+Cirith Ungol,Shadowfax
+Cirith Ungol,Faramir
+Cirith Ungol,Gollum
+Cirith Ungol,Quickbeam
+Cirith Ungol,Frodo Baggins
+Coldfells,Gimli
+Coldfells,Peregrin Took
+Coldfells,Saruman the White
+Coldfells,Quickbeam
+Coldfells,Boromir
+Coldfells,Faramir
+Coldfells,Glorfindel
+Coldfells,Treebeard
+Coldfells,Arwen Evenstar
+Coldfells,Bilbo Baggins
+Crack of Doom,Saruman the White
+Crack of Doom,Tom Bombadil
+Crack of Doom,Beregond
+Crack of Doom,Legolas
+Crack of Doom,Éowyn
+Crack of Doom,Quickbeam
+Crack of Doom,Boromir
+Crack of Doom,Peregrin Took
+Crack of Doom,Denethor
+Crack of Doom,Théoden
+Crack of Doom,Shelob
+Crack of Doom,Aragorn
+Crack of Doom,Faramir
+Dark Land,Aragorn
+Dark Land,Faramir
+Dark Land,Gandalf the Grey
+Dark Land,Beregond
+Dark Land,Quickbeam
+Dark Land,Shelob
+Dark Land,Éomer
+Dark Land,Théoden
+Dol Guldur,Shelob
+Dol Guldur,Galadriel
+Dol Guldur,Elrond
+Dol Guldur,Quickbeam
+Dol Guldur,Peregrin Took
+Dol Guldur,Meriadoc Brandybuck
+Dome of Stars,Treebeard
+Dome of Stars,Éomer
+Dome of Stars,Frodo Baggins
+Dome of Stars,Gollum
+Dome of Stars,Beregond
+Dome of Stars,Legolas
+Dome of Stars,Gandalf the Grey
+Dome of Stars,Quickbeam
+Dome of Stars,Gimli
+Dome of Stars,Denethor
+Dome of Stars,Bilbo Baggins
+Dome of Stars,Peregrin Took
+Doors of Durin,Galadriel
+Doors of Durin,Quickbeam
+Doors of Durin,Elrond
+Doors of Durin,Éowyn
+Doors of Durin,Faramir
+Doors of Durin,Barliman Butterbur
+Doors of Durin,Aragorn
+Doors of Durin,Treebeard
+Doors of Durin,Beregond
+Doors of Durin,Peregrin Took
+Doriath,Saruman the White
+Doriath,Barliman Butterbur
+Doriath,Beregond
+Doriath,Galadriel
+Doriath,Gimli
+Doriath,Frodo Baggins
+Doriath,Boromir
+Doriath,Legolas
+Doriath,Peregrin Took
+Doriath,Treebeard
+Doriath,Gollum
+Doriath,Éomer
+East Beleriand,Aragorn
+East Beleriand,Gimli
+East Beleriand,Barliman Butterbur
+East Beleriand,Gollum
+East Beleriand,Sauron
+East Beleriand,Saruman the White
+East Beleriand,Frodo Baggins
+East Beleriand,Legolas
+East Beleriand,Boromir
+East Beleriand,Théoden
+East Beleriand,Elrond
+East Beleriand,Glorfindel
+East Beleriand,Éowyn
+East Road,Glorfindel
+East Road,Boromir
+East Road,Elrond
+East Road,Sauron
+East Road,Gandalf the Grey
+East Road,Saruman the White
+East Road,Denethor
+East Road,Shadowfax
+Eastfarthing,Elrond
+Eastfarthing,Aragorn
+Eastfarthing,Tom Bombadil
+Eastfarthing,Éomer
+Eastfarthing,Éowyn
+Eastfarthing,Grìma Wormtongue
+Eastfarthing,Gollum
+Eithel Sirion,Samwise Gamgee
+Eithel Sirion,Aragorn
+Eithel Sirion,Frodo Baggins
+Eithel Sirion,Legolas
+Eithel Sirion,Théoden
+Eithel Sirion,Peregrin Took
+Eithel Sirion,Boromir
+Eithel Sirion,Faramir
+Eithel Sirion,Galadriel
+Eithel Sirion,Bilbo Baggins
+Eithel Sirion,Shadowfax
+Eithel Sirion,Gimli
+Elostirion,Gimli
+Elostirion,Gollum
+Elostirion,Faramir
+Elostirion,Aragorn
+Elostirion,Barliman Butterbur
+Elostirion,Samwise Gamgee
+Elostirion,Tom Bombadil
+Elostirion,Quickbeam
+Elostirion,Denethor
+Elostirion,Arwen Evenstar
+Elostirion,Éowyn
+Elostirion,Treebeard
+Elostirion,Peregrin Took
+Enchanted Isles,Glorfindel
+Enchanted Isles,Meriadoc Brandybuck
+Enchanted Isles,Treebeard
+Enchanted Isles,Galadriel
+Enchanted Isles,Théoden
+Enchanted Isles,Shelob
+Enchanted Isles,Tom Bombadil
+Endless Stair,Shelob
+Endless Stair,Shadowfax
+Endless Stair,Frodo Baggins
+Endless Stair,Quickbeam
+Endless Stair,Grìma Wormtongue
+Endless Stair,Arwen Evenstar
+Endless Stair,Aragorn
+Endless Stair,Samwise Gamgee
+Endless Stair,Legolas
+Endless Stair,Sauron
+Endless Stair,Tom Bombadil
+Endless Stair,Denethor
+Endless Stair,Treebeard
+Endless Stair,Barliman Butterbur
+Endless Stair,Beregond
+Endless Stair,Éowyn
+Eä,Gollum
+Eä,Shadowfax
+Eä,Beregond
+Eä,Barliman Butterbur
+Eä,Peregrin Took
+Eä,Éowyn
+Eä,Samwise Gamgee
+Eä,Quickbeam
+Eä,Saruman the White
+Eä,Legolas
+Eä,Shelob
+Falls of Rauros,Gimli
+Falls of Rauros,Tom Bombadil
+Falls of Rauros,Legolas
+Falls of Rauros,Éomer
+Falls of Rauros,Éowyn
+Falls of Rauros,Meriadoc Brandybuck
+Falls of Rauros,Treebeard
+Falls of Rauros,Boromir
+Fens of Serech,Théoden
+Fens of Serech,Aragorn
+Fens of Serech,Arwen Evenstar
+Fens of Serech,Glorfindel
+Fens of Serech,Grìma Wormtongue
+Fens of Serech,Treebeard
+Fens of Serech,Frodo Baggins
+Fens of Serech,Éowyn
+Fens of Serech,Tom Bombadil
+Fens of Serech,Boromir
+Field of Celebrant,Frodo Baggins
+Field of Celebrant,Éomer
+Field of Celebrant,Saruman the White
+Field of Celebrant,Aragorn
+Field of Celebrant,Shadowfax
+Field of Celebrant,Faramir
+Field of Celebrant,Boromir
+Field of Celebrant,Samwise Gamgee
+Field of Celebrant,Denethor
+Field of Celebrant,Bilbo Baggins
+Field of Celebrant,Shelob
+Field of Celebrant,Galadriel
+Fords of Isen,Grìma Wormtongue
+Fords of Isen,Quickbeam
+Fords of Isen,Sauron
+Fords of Isen,Shadowfax
+Fords of Isen,Gandalf the Grey
+Fords of Isen,Elrond
+Fords of Isen,Barliman Butterbur
+Fords of Isen,Galadriel
+Fords of Isen,Denethor
+Gap of Rohan,Barliman Butterbur
+Gap of Rohan,Éomer
+Gap of Rohan,Quickbeam
+Gap of Rohan,Treebeard
+Gap of Rohan,Sauron
+Gap of Rohan,Saruman the White
+Gap of Rohan,Bilbo Baggins
+Gap of Rohan,Grìma Wormtongue
+Gap of Rohan,Arwen Evenstar
+Gladden Fields,Samwise Gamgee
+Gladden Fields,Éowyn
+Gladden Fields,Barliman Butterbur
+Gladden Fields,Tom Bombadil
+Gladden Fields,Aragorn
+Gladden Fields,Glorfindel
+Gorgoroth,Meriadoc Brandybuck
+Gorgoroth,Frodo Baggins
+Gorgoroth,Samwise Gamgee
+Gorgoroth,Boromir
+Gorgoroth,Sauron
+Gorgoroth,Grìma Wormtongue
+Gorgoroth,Quickbeam
+Gorgoroth,Shelob
+Gorgoroth,Galadriel
+Gorgoroth,Aragorn
+Gorgoroth,Faramir
+Greenway,Théoden
+Greenway,Glorfindel
+Greenway,Éowyn
+Greenway,Shadowfax
+Greenway,Shelob
+Greenway,Gandalf the Grey
+Greenway,Legolas
+Greenway,Gimli
+Greenway,Faramir
+Greenway,Elrond
+Greenway,Barliman Butterbur
+Haudh-en-Nirnaeth,Elrond
+Haudh-en-Nirnaeth,Glorfindel
+Haudh-en-Nirnaeth,Gollum
+Haudh-en-Nirnaeth,Galadriel
+Haudh-en-Nirnaeth,Gimli
+Haudh-en-Nirnaeth,Gandalf the Grey
+Haven of the Eldar,Barliman Butterbur
+Haven of the Eldar,Samwise Gamgee
+Haven of the Eldar,Bilbo Baggins
+Haven of the Eldar,Éomer
+Haven of the Eldar,Meriadoc Brandybuck
+Haven of the Eldar,Boromir
+Haven of the Eldar,Quickbeam
+Haven of the Eldar,Sauron
+Haven of the Eldar,Treebeard
+Haven of the Eldar,Glorfindel
+Helm's Deep,Meriadoc Brandybuck
+Helm's Deep,Gollum
+Helm's Deep,Galadriel
+Helm's Deep,Théoden
+Helm's Deep,Sauron
+Helm's Deep,Éowyn
+Helm's Deep,Gandalf the Grey
+Helm's Deep,Arwen Evenstar
+Helm's Deep,Éomer
+Helm's Deep,Tom Bombadil
+Helm's Deep,Saruman the White
+Helm's Deep,Frodo Baggins
+Henneth Annûn,Elrond
+Henneth Annûn,Gollum
+Henneth Annûn,Galadriel
+Henneth Annûn,Meriadoc Brandybuck
+Henneth Annûn,Tom Bombadil
+Henneth Annûn,Barliman Butterbur
+Henneth Annûn,Sauron
+Henneth Annûn,Legolas
+Henneth Annûn,Faramir
+Hobbit-hole,Sauron
+Hobbit-hole,Gimli
+Hobbit-hole,Denethor
+Hobbit-hole,Quickbeam
+Hobbit-hole,Gollum
+Hobbit-hole,Éowyn
+Hobbit-hole,Arwen Evenstar
+Hobbit-hole,Frodo Baggins
+Hobbit-hole,Boromir
+Houses of Healing,Éowyn
+Houses of Healing,Meriadoc Brandybuck
+Houses of Healing,Beregond
+Houses of Healing,Grìma Wormtongue
+Hyarnustar,Théoden
+Hyarnustar,Elrond
+Hyarnustar,Éowyn
+Hyarnustar,Gollum
+Hyarnustar,Faramir
+Hyarnustar,Grìma Wormtongue
+Hyarnustar,Aragorn
+Hyarnustar,Frodo Baggins
+Ilmen,Arwen Evenstar
+Ilmen,Frodo Baggins
+Ilmen,Shelob
+Ilmen,Faramir
+Ilmen,Saruman the White
+Ilmen,Éowyn
+Ilmen,Quickbeam
+Ilmen,Gollum
+Ilmen,Barliman Butterbur
+Ilmen,Gandalf the Grey
+Ilmen,Legolas
+Inn of the Prancing Pony,Legolas
+Inn of the Prancing Pony,Théoden
+Inn of the Prancing Pony,Beregond
+Inn of the Prancing Pony,Arwen Evenstar
+Inn of the Prancing Pony,Meriadoc Brandybuck
+Inn of the Prancing Pony,Bilbo Baggins
+Inn of the Prancing Pony,Shadowfax
+Inn of the Prancing Pony,Quickbeam
+Isengard,Legolas
+Isengard,Samwise Gamgee
+Isengard,Boromir
+Isengard,Meriadoc Brandybuck
+Isengard,Arwen Evenstar
+Isengard,Galadriel
+Isengard,Tom Bombadil
+Isengard,Éomer
+Isengard,Quickbeam
+Isenmouthe,Beregond
+Isenmouthe,Elrond
+Isenmouthe,Aragorn
+Isenmouthe,Meriadoc Brandybuck
+Isenmouthe,Quickbeam
+Isenmouthe,Gollum
+Isenmouthe,Shelob
+Isenmouthe,Éomer
+Isenmouthe,Treebeard
+Isle of Balar,Éowyn
+Isle of Balar,Barliman Butterbur
+Isle of Balar,Gandalf the Grey
+Isle of Balar,Shadowfax
+Isle of Balar,Éomer
+Isle of Balar,Aragorn
+Isle of Balar,Arwen Evenstar
+Isle of Balar,Shelob
+Isle of Balar,Bilbo Baggins
+Isle of Balar,Peregrin Took
+Isle of Balar,Saruman the White
+Land of the Sun,Aragorn
+Land of the Sun,Grìma Wormtongue
+Land of the Sun,Bilbo Baggins
+Land of the Sun,Sauron
+Land of the Sun,Denethor
+Land of the Sun,Faramir
+Land of the Sun,Quickbeam
+Land of the Sun,Frodo Baggins
+Land of the Sun,Beregond
+Land of the Sun,Glorfindel
+Losgar,Treebeard
+Losgar,Legolas
+Losgar,Barliman Butterbur
+Losgar,Éowyn
+Losgar,Meriadoc Brandybuck
+Losgar,Arwen Evenstar
+Losgar,Galadriel
+Losgar,Grìma Wormtongue
+Losgar,Glorfindel
+Losgar,Tom Bombadil
+Losgar,Elrond
+Losgar,Denethor
+Lothlorièn,Galadriel
+Lothlorièn,Denethor
+Lothlorièn,Quickbeam
+Lothlorièn,Beregond
+Lothlorièn,Shadowfax
+Lothlorièn,Éomer
+Lothlorièn,Legolas
+Lothlorièn,Sauron
+Lothlorièn,Éowyn
+Lothlorièn,Barliman Butterbur
+Lothlorièn,Elrond
+Lothlorièn,Shelob
+Lothlorièn,Boromir
+Lothlorièn,Bilbo Baggins
+Luthany,Legolas
+Luthany,Shadowfax
+Luthany,Arwen Evenstar
+Luthany,Galadriel
+Luthany,Bilbo Baggins
+Luthany,Denethor
+Maglor's Gap,Meriadoc Brandybuck
+Maglor's Gap,Barliman Butterbur
+Maglor's Gap,Bilbo Baggins
+Maglor's Gap,Grìma Wormtongue
+Maglor's Gap,Elrond
+Maglor's Gap,Sauron
+Maglor's Gap,Éomer
+Maglor's Gap,Faramir
+Maglor's Gap,Samwise Gamgee
+Marish,Gandalf the Grey
+Marish,Gimli
+Marish,Sauron
+Marish,Bilbo Baggins
+Marish,Éomer
+Marish,Grìma Wormtongue
+Marish,Elrond
+Meduseld,Gimli
+Meduseld,Barliman Butterbur
+Meduseld,Bilbo Baggins
+Meduseld,Glorfindel
+Meduseld,Peregrin Took
+Meduseld,Gollum
+Meduseld,Boromir
+Meduseld,Gandalf the Grey
+Meduseld,Meriadoc Brandybuck
+Meduseld,Treebeard
+Meduseld,Saruman the White
+Minas Tirith,Beregond
+Minas Tirith,Gandalf the Grey
+Minas Tirith,Legolas
+Minas Tirith,Quickbeam
+Minas Tirith,Bilbo Baggins
+Minas Tirith,Meriadoc Brandybuck
+Minas Tirith,Éowyn
+Minhiriath,Treebeard
+Minhiriath,Quickbeam
+Minhiriath,Grìma Wormtongue
+Minhiriath,Éomer
+Minhiriath,Beregond
+Minhiriath,Gimli
+Minhiriath,Tom Bombadil
+Minhiriath,Boromir
+Minhiriath,Éowyn
+Máhanaxar,Faramir
+Máhanaxar,Sauron
+Máhanaxar,Gandalf the Grey
+Máhanaxar,Elrond
+Máhanaxar,Frodo Baggins
+Máhanaxar,Galadriel
+Máhanaxar,Glorfindel
+Máhanaxar,Denethor
+Máhanaxar,Gimli
+Máhanaxar,Boromir
+Narchost,Boromir
+Narchost,Faramir
+Narchost,Treebeard
+Narchost,Éowyn
+Narchost,Sauron
+Narchost,Aragorn
+Narchost,Galadriel
+Nargothrond,Saruman the White
+Nargothrond,Éomer
+Nargothrond,Beregond
+Nargothrond,Shadowfax
+Nargothrond,Denethor
+Nargothrond,Shelob
+Nargothrond,Gandalf the Grey
+Nargothrond,Elrond
+Nargothrond,Barliman Butterbur
+Nargothrond,Meriadoc Brandybuck
+Nargothrond,Quickbeam
+Núath,Treebeard
+Núath,Théoden
+Núath,Peregrin Took
+Núath,Arwen Evenstar
+Núath,Éomer
+Núath,Meriadoc Brandybuck
+Old Ford,Gandalf the Grey
+Old Ford,Sauron
+Old Ford,Glorfindel
+Old Ford,Théoden
+Old Ford,Quickbeam
+Old Ford,Aragorn
+Old Forest,Shadowfax
+Old Forest,Grìma Wormtongue
+Old Forest,Barliman Butterbur
+Old Forest,Peregrin Took
+Old Forest,Beregond
+Old Forest,Denethor
+Old Forest,Legolas
+Old Forest Road,Gandalf the Grey
+Old Forest Road,Beregond
+Old Forest Road,Gimli
+Old Forest Road,Boromir
+Old Forest Road,Éomer
+Old Forest Road,Théoden
+Old Forest Road,Tom Bombadil
+Old Forest Road,Grìma Wormtongue
+Old Forest Road,Glorfindel
+Old Forest Road,Treebeard
+Orthanc,Éowyn
+Orthanc,Arwen Evenstar
+Orthanc,Treebeard
+Orthanc,Gollum
+Orthanc,Elrond
+Orthanc,Galadriel
+Orthanc,Saruman the White
+Orthanc,Gimli
+Orthanc,Grìma Wormtongue
+Orthanc,Legolas
+Orthanc,Denethor
+Orthanc,Tom Bombadil
+Orthanc,Shadowfax
+Orthanc,Peregrin Took
+Parth Galen,Shadowfax
+Parth Galen,Aragorn
+Parth Galen,Frodo Baggins
+Parth Galen,Elrond
+Parth Galen,Théoden
+Parth Galen,Bilbo Baggins
+Parth Galen,Meriadoc Brandybuck
+Parth Galen,Barliman Butterbur
+Parth Galen,Arwen Evenstar
+Parth Galen,Boromir
+Paths of the Dead,Arwen Evenstar
+Paths of the Dead,Shelob
+Paths of the Dead,Galadriel
+Paths of the Dead,Glorfindel
+Paths of the Dead,Peregrin Took
+Paths of the Dead,Sauron
+Pelennor Fields,Sauron
+Pelennor Fields,Peregrin Took
+Pelennor Fields,Arwen Evenstar
+Pelennor Fields,Legolas
+Pelennor Fields,Elrond
+Pelennor Fields,Quickbeam
+Pelennor Fields,Meriadoc Brandybuck
+Pelennor Fields,Éomer
+Pelennor Fields,Tom Bombadil
+Rath Dínen,Samwise Gamgee
+Rath Dínen,Bilbo Baggins
+Rath Dínen,Frodo Baggins
+Rath Dínen,Saruman the White
+Rath Dínen,Treebeard
+Rath Dínen,Tom Bombadil
+Rath Dínen,Denethor
+Rath Dínen,Quickbeam
+Rath Dínen,Éowyn
+Regions of the Shire,Sauron
+Regions of the Shire,Aragorn
+Regions of the Shire,Galadriel
+Regions of the Shire,Faramir
+Regions of the Shire,Treebeard
+Regions of the Shire,Meriadoc Brandybuck
+Regions of the Shire,Glorfindel
+Regions of the Shire,Shadowfax
+Regions of the Shire,Barliman Butterbur
+Regions of the Shire,Peregrin Took
+Regions of the Shire,Arwen Evenstar
+Rivendell,Peregrin Took
+Rivendell,Beregond
+Rivendell,Elrond
+Rivendell,Frodo Baggins
+Rivendell,Barliman Butterbur
+Rivendell,Gollum
+Rivendell,Glorfindel
+Rivendell,Éowyn
+Rivendell,Treebeard
+Sarn Ford,Grìma Wormtongue
+Sarn Ford,Beregond
+Sarn Ford,Barliman Butterbur
+Sarn Ford,Denethor
+Sarn Ford,Tom Bombadil
+Sarn Ford,Éowyn
+Sarn Ford,Frodo Baggins
+Sarn Ford,Galadriel
+Sarn Ford,Sauron
+Sarn Ford,Bilbo Baggins
+Sarn Ford,Gollum
+Sarn Ford,Quickbeam
+Taur-en-Faroth,Éowyn
+Taur-en-Faroth,Bilbo Baggins
+Taur-en-Faroth,Boromir
+Taur-en-Faroth,Barliman Butterbur
+Taur-im-Duinath,Grìma Wormtongue
+Taur-im-Duinath,Gollum
+Taur-im-Duinath,Arwen Evenstar
+Taur-im-Duinath,Quickbeam
+Taur-im-Duinath,Barliman Butterbur
+Taur-im-Duinath,Aragorn
+Taur-im-Duinath,Denethor
+Taur-im-Duinath,Éomer
+Taur-im-Duinath,Treebeard
+Taur-im-Duinath,Shelob
+The Forsaken Inn,Denethor
+The Forsaken Inn,Barliman Butterbur
+The Forsaken Inn,Quickbeam
+The Forsaken Inn,Treebeard
+The Forsaken Inn,Sauron
+The Forsaken Inn,Grìma Wormtongue
+The Forsaken Inn,Boromir
+The Forsaken Inn,Samwise Gamgee
+The Forsaken Inn,Éomer
+The Forsaken Inn,Galadriel
+The Rivers and Beacon-Hills of Gondor,Saruman the White
+The Rivers and Beacon-Hills of Gondor,Boromir
+The Rivers and Beacon-Hills of Gondor,Glorfindel
+The Rivers and Beacon-Hills of Gondor,Tom Bombadil
+The Rivers and Beacon-Hills of Gondor,Gollum
+The Rivers and Beacon-Hills of Gondor,Gimli
+The Rivers and Beacon-Hills of Gondor,Peregrin Took
+The Rivers and Beacon-Hills of Gondor,Théoden
+The Rivers and Beacon-Hills of Gondor,Shelob
+The Rivers and Beacon-Hills of Gondor,Galadriel
+The Rivers and Beacon-Hills of Gondor,Faramir
+The Void,Boromir
+The Void,Théoden
+The Void,Shadowfax
+The Void,Treebeard
+The Void,Saruman the White
+The Void,Frodo Baggins
+The Void,Éowyn
+Timeless Halls,Frodo Baggins
+Timeless Halls,Gimli
+Timeless Halls,Shelob
+Timeless Halls,Meriadoc Brandybuck
+Timeless Halls,Shadowfax
+Timeless Halls,Bilbo Baggins
+Timeless Halls,Théoden
+Timeless Halls,Aragorn
+Timeless Halls,Boromir
+Tol Brandir,Shelob
+Tol Brandir,Beregond
+Tol Brandir,Éomer
+Tol Brandir,Barliman Butterbur
+Tol Brandir,Samwise Gamgee
+Tol Brandir,Treebeard
+Tol Brandir,Glorfindel
+Tol Brandir,Saruman the White
+Tol Galen,Beregond
+Tol Galen,Frodo Baggins
+Tol Galen,Treebeard
+Tol Galen,Denethor
+Tol Galen,Samwise Gamgee
+Tol Galen,Quickbeam
+Tol Galen,Gollum
+Tol Galen,Aragorn
+Tol Galen,Peregrin Took
+Tol Galen,Meriadoc Brandybuck
+Tol Morwen,Samwise Gamgee
+Tol Morwen,Barliman Butterbur
+Tol Morwen,Boromir
+Tol Morwen,Shadowfax
+Tol Morwen,Théoden
+Tol Morwen,Saruman the White
+Tol Morwen,Elrond
+Tol-in-Gaurhoth,Saruman the White
+Tol-in-Gaurhoth,Faramir
+Tol-in-Gaurhoth,Aragorn
+Tol-in-Gaurhoth,Samwise Gamgee
+Tol-in-Gaurhoth,Sauron
+Tol-in-Gaurhoth,Éowyn
+Tol-in-Gaurhoth,Shelob
+Tol-in-Gaurhoth,Grìma Wormtongue
+Tol-in-Gaurhoth,Arwen Evenstar
+Tol-in-Gaurhoth,Gimli
+Tol-in-Gaurhoth,Frodo Baggins
+Tol-in-Gaurhoth,Beregond
+Tol-in-Gaurhoth,Bilbo Baggins
+Tol-in-Gaurhoth,Gollum
+Tumladen,Treebeard
+Tumladen,Elrond
+Tumladen,Aragorn
+Tumladen,Shadowfax
+Tumladen,Quickbeam
+Tumladen,Arwen Evenstar
+Tumladen,Shelob
+Tumladen,Peregrin Took
+Tumladen,Sauron
+Tumladen,Samwise Gamgee
+Utumno,Samwise Gamgee
+Utumno,Treebeard
+Utumno,Gimli
+Utumno,Gollum
+Utumno,Glorfindel
+Utumno,Boromir
+Utumno,Elrond
+Utumno,Saruman the White
+Vaiya,Sauron
+Vaiya,Glorfindel
+Vaiya,Frodo Baggins
+Vaiya,Quickbeam
+Vaiya,Denethor
+Vaiya,Aragorn
+Vaiya,Gandalf the Grey
+Vaiya,Éomer
+Vaiya,Barliman Butterbur
+Vista,Meriadoc Brandybuck
+Vista,Tom Bombadil
+Vista,Galadriel
+Vista,Legolas
+Vista,Barliman Butterbur
+Vista,Treebeard
+Vista,Peregrin Took
+Vista,Frodo Baggins
+Warning beacons of Gondor,Shelob
+Warning beacons of Gondor,Beregond
+Warning beacons of Gondor,Aragorn
+Warning beacons of Gondor,Boromir
+Warning beacons of Gondor,Samwise Gamgee
+Warning beacons of Gondor,Glorfindel
+Warning beacons of Gondor,Tom Bombadil
+Warning beacons of Gondor,Grìma Wormtongue
+Warning beacons of Gondor,Éomer
